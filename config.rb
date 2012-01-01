@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/rebar-plugin-tutorial/"
+http_images_path = "/rebar-plugin-tutorial/images"
+http_fonts_path = "/rebar-plugin-tutorial/fonts"
+css_dir = "public/rebar-plugin-tutorial/stylesheets"
 
 # Local development paths
 sass_dir = "sass"

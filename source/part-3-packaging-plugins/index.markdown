@@ -605,8 +605,8 @@ As promised, all the relevant links for this article are listed below.
 5. [Erlang Solutions' parse_trans library][parse_trans]
 6. [rebar_alien_plugin][rebar_alien_plugin]
 
-[part-1]: http://hyperthunk.githuh.com/rebar-plugin-tutorial/part-1-introducing-rebar-plugins/index.html
-[part-2]: http://hyperthunk.githuh.com/rebar-plugin-tutorial/part-2-plugin-anatomy/index.html
+[part-1]: http://hyperthunk.github.com/rebar-plugin-tutorial/part-1-introducing-rebar-plugins/index.html
+[part-2]: http://hyperthunk.github.com/rebar-plugin-tutorial/part-2-plugin-anatomy/index.html
 [plugin-branch]: https://github.com/hyperthunk/rebar-plugin-tutorial/tree/part3-plugin
 [consumer-branch]: https://github.com/hyperthunk/rebar-plugin-tutorial/tree/part3-project
 [git-repo]: https://github.com/hyperthunk/rebar-plugin-tutorial
